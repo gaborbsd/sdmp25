@@ -1,1 +1,5 @@
-This is a sample file. Let's update it.
+This is an example file. Let's update it.
+
+Foobar.
+
+Foobar more.
