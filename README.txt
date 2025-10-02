@@ -1,9 +1,1 @@
-This is a readme file. Let's update it.
-
-Foobar.
-
-Foobar more.
-
-Some new content.
-
-Some more new content....
+This is the README of the v1.0 of the app.
